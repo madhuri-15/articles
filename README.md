@@ -13,7 +13,7 @@ This repository contains Notebooks/Scripts used in my articles published on Medi
 - [Getting started with Git & GitHub](https://medium.com/@madhuri15/getting-started-with-git-github-2088e7a8786f)
 
 ### Python Programming Language
-- [Python Sequence — Lists]()
+- [Python Sequence — Lists a complete guide](https://medium.com/@madhuri15/python-sequence-lists-a-complete-guide-54ec7ed88323)
 - [Python — Variables](https://medium.com/@madhuri15/python-variables-bc14437368b0)
 - [Python — Introduction](https://medium.com/@madhuri15/python-introduction-41a93e285eaa)
 - [Python Basics — Keywords, All you need to know!](https://medium.com/@madhuri15/python-basics-keywords-all-you-need-to-know-275ba48970a5)
