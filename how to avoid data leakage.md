@@ -94,6 +94,7 @@ print(“Accuracy:: %.3f” % (acc*100))
 # Output: Accuracy:: 76.667
 ```
 ### Using K-fold cross validation
+
 ```python
 # Using cross-val-score
 from sklearn.model_selection import cross_val_score
@@ -102,4 +103,5 @@ from sklearn.model_selection import cross_val_score
 scores = cross_val_score(pipeline, X, y)
 print(“Accuracy:: %.3f” % (scores.mean()*100))
 # Output: Accuracy:: 71.500
+
 ```
