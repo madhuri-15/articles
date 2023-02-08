@@ -9,6 +9,7 @@ This repository contains Notebooks/Scripts used in my articles published on Medi
 - [Classification metrics for more promising model performance](https://medium.com/dev-genius/classification-metrics-5713f5a7b8e5)
 - [Finding a Balance in Bias-Variance Trade-off](https://medium.com/dev-genius/bias-variance-trade-off-c4139fc798b7)
 - [ML Algorithm: Logistic Regression for a Base Model](https://medium.com/mlearning-ai/ml-algorithm-logistic-regression-for-a-base-model-35ca5f5029e4)
+- [Data Leakage in Machine Learning](https://medium.com/dev-genius/data-leakage-in-ml-ae19613009ba)
 ### Git & GitHub
 - [Getting started with Git & GitHub](https://medium.com/@madhuri15/getting-started-with-git-github-2088e7a8786f)
 
