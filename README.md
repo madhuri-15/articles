@@ -4,6 +4,7 @@ This repository contains Notebooks/Scripts used in my articles published on Medi
 ## Articles
 
 ### Machine Learning
+- [Decision Tree 101: A Beginner's Guide](https://medium.com/@madhuri15/decision-trees-101-a-beginners-guide-4095dcfb8351)
 - [ML Algorithm: Linear Regression from scratch using gradient descent](https://medium.com/@madhuri15/ml-algorithm-linear-regression-from-scratch-using-gradient-descent-algorithm-6639ae8663c)
 - [Performance Metrics for Regression Algorithms](https://medium.com/@madhuri15/performance-metrics-for-regression-algorithms-1c889e68fde5)
 - [Classification metrics for more promising model performance](https://medium.com/dev-genius/classification-metrics-5713f5a7b8e5)
