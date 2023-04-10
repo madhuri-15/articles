@@ -4,6 +4,7 @@ This repository contains Notebooks/Scripts used in my articles published on Medi
 ## Articles
 
 ### Machine Learning
+- [Customer Churn Predictions Using Decision Tree Classifier](https://medium.com/@madhuri15/customer-churn-predictions-using-decision-tree-classifier-58196cb36a2b)
 - [Decision Tree 101: A Beginner's Guide](https://medium.com/@madhuri15/decision-trees-101-a-beginners-guide-4095dcfb8351)
 - [ML Algorithm: Linear Regression from scratch using gradient descent](https://medium.com/@madhuri15/ml-algorithm-linear-regression-from-scratch-using-gradient-descent-algorithm-6639ae8663c)
 - [Performance Metrics for Regression Algorithms](https://medium.com/@madhuri15/performance-metrics-for-regression-algorithms-1c889e68fde5)
