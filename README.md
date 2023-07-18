@@ -4,6 +4,7 @@ This repository contains Notebooks/Scripts used in my articles published on Medi
 ## Articles
 
 ### Machine Learning
+- [Why You Should Use Random Forests for Your Next Project?](https://medium.com/gopenai/why-you-should-use-random-forests-for-your-next-project-3653097cd5ef)
 - [Customer Churn Predictions Using Decision Tree Classifier](https://medium.com/@madhuri15/customer-churn-predictions-using-decision-tree-classifier-58196cb36a2b)
 - [Decision Tree 101: A Beginner's Guide](https://medium.com/@madhuri15/decision-trees-101-a-beginners-guide-4095dcfb8351)
 - [ML Algorithm: Linear Regression from scratch using gradient descent](https://medium.com/@madhuri15/ml-algorithm-linear-regression-from-scratch-using-gradient-descent-algorithm-6639ae8663c)
@@ -12,6 +13,10 @@ This repository contains Notebooks/Scripts used in my articles published on Medi
 - [Finding a Balance in Bias-Variance Trade-off](https://medium.com/dev-genius/bias-variance-trade-off-c4139fc798b7)
 - [ML Algorithm: Logistic Regression for a Base Model](https://medium.com/mlearning-ai/ml-algorithm-logistic-regression-for-a-base-model-35ca5f5029e4)
 - [Data Leakage in Machine Learning](https://medium.com/dev-genius/data-leakage-in-ml-ae19613009ba)
+
+### Statistics 
+- [7 Days of Statistics for Data Science — Day 01 — Getting started with Statistics](https://medium.com/@madhuri15/7-days-of-statistics-for-data-science-day-01-what-is-statistics-28ccc82c6a4f)
+- [Day 02 — Measures of central tendency — Statistics for Data Science 7 Days Series](https://medium.com/@madhuri15/day-02-measures-of-central-tendency-statistics-for-data-science-7-days-series-61d74730b060)
 ### Git & GitHub
 - [Getting started with Git & GitHub](https://medium.com/@madhuri15/getting-started-with-git-github-2088e7a8786f)
 
