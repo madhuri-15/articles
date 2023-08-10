@@ -17,6 +17,7 @@ This repository contains Notebooks/Scripts used in my articles published on Medi
 ### Statistics 
 - [7 Days of Statistics for Data Science — Day 01 — Getting started with Statistics](https://medium.com/@madhuri15/7-days-of-statistics-for-data-science-day-01-what-is-statistics-28ccc82c6a4f)
 - [Day 02 — Measures of central tendency — Statistics for Data Science 7 Days Series](https://medium.com/@madhuri15/day-02-measures-of-central-tendency-statistics-for-data-science-7-days-series-61d74730b060)
+- [Day 03 — Measures of Variability, 7 Days of Statistics for Data Science](https://medium.com/@madhuri15/day-03-measures-of-variability-7-days-of-statistics-for-data-science-6bb7168b9300)
 ### Git & GitHub
 - [Getting started with Git & GitHub](https://medium.com/@madhuri15/getting-started-with-git-github-2088e7a8786f)
 
