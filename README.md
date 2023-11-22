@@ -1,5 +1,5 @@
 # Medium Articles
-This repository contains Notebooks/Scripts used in my articles published on Medium. 
+List of articles published on Medium. 
 
 ## Articles
 
@@ -13,11 +13,19 @@ This repository contains Notebooks/Scripts used in my articles published on Medi
 - [Finding a Balance in Bias-Variance Trade-off](https://medium.com/dev-genius/bias-variance-trade-off-c4139fc798b7)
 - [ML Algorithm: Logistic Regression for a Base Model](https://medium.com/mlearning-ai/ml-algorithm-logistic-regression-for-a-base-model-35ca5f5029e4)
 - [Data Leakage in Machine Learning](https://medium.com/dev-genius/data-leakage-in-ml-ae19613009ba)
+- [Significance of k-Nearest Neighbors in Machine Learning](https://medium.com/@madhuri15/significance-of-k-nearest-neighbors-in-machine-learning-572f0daa2841)
+- [KNN Classifier Implementation: Best Practices and Tips (PART I)](https://medium.com/@madhuri15/knn-classifier-implementation-best-practices-and-tips-part-i-6288181c8eed)
+- [KNN Classifier Optimization: Best Practices and Tips (PART II)](https://medium.com/@madhuri15/knn-classifier-optimization-best-practices-and-tips-part-2-60e83b181d59)
 
 ### Statistics 
-- [7 Days of Statistics for Data Science — Day 01 — Getting started with Statistics](https://medium.com/@madhuri15/7-days-of-statistics-for-data-science-day-01-what-is-statistics-28ccc82c6a4f)
-- [Day 02 — Measures of central tendency — Statistics for Data Science 7 Days Series](https://medium.com/@madhuri15/day-02-measures-of-central-tendency-statistics-for-data-science-7-days-series-61d74730b060)
-- [Day 03 — Measures of Variability, 7 Days of Statistics for Data Science](https://medium.com/@madhuri15/day-03-measures-of-variability-7-days-of-statistics-for-data-science-6bb7168b9300)
+- [#1 | What is Statistics? | 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/7-days-of-statistics-for-data-science-day-01-what-is-statistics-28ccc82c6a4f)
+- [#2 | Measures of central tendency | 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/day-02-measures-of-central-tendency-statistics-for-data-science-7-days-series-61d74730b060)
+- [#3 | Measures of Variability | 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/day-03-measures-of-variability-7-days-of-statistics-for-data-science-6bb7168b9300)
+- [#4 | Correlation & Covariance | 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/day-04-correlation-covariance-7-days-of-statistics-for-data-science-aabd43d35d22)
+- [#5 | Hypothesis Testing & P-values | 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/5-hypothesis-testing-p-values-7-days-of-statistics-for-data-science-15b25212504a)
+- [#6 | Probability Distribution| 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/6-probability-distribution-7-days-of-statistics-for-data-science-7b0f1f0e4df0)
+- [#7 | Bayesian Inference | 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/7-bayesian-inference-7-days-of-statistics-for-data-science-3c45280277d)
+  
 ### Git & GitHub
 - [Getting started with Git & GitHub](https://medium.com/@madhuri15/getting-started-with-git-github-2088e7a8786f)
 
