@@ -16,6 +16,7 @@ List of articles published on Medium.
 - [Significance of k-Nearest Neighbors in Machine Learning](https://medium.com/@madhuri15/significance-of-k-nearest-neighbors-in-machine-learning-572f0daa2841)
 - [KNN Classifier Implementation: Best Practices and Tips (PART I)](https://medium.com/@madhuri15/knn-classifier-implementation-best-practices-and-tips-part-i-6288181c8eed)
 - [KNN Classifier Optimization: Best Practices and Tips (PART II)](https://medium.com/@madhuri15/knn-classifier-optimization-best-practices-and-tips-part-2-60e83b181d59)
+- [The Roles of Data Sets in Machine Learning Projects: A Guide to Data Splitting](https://medium.com/@madhuri15/the-roles-of-data-sets-in-machine-learning-projects-a-guide-to-data-splitting-454beb468a49)
 
 ### Statistics 
 - [#1 | What is Statistics? | 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/7-days-of-statistics-for-data-science-day-01-what-is-statistics-28ccc82c6a4f)
