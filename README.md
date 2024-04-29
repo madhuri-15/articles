@@ -4,6 +4,12 @@ List of articles published on Medium.
 ## Articles
 
 ### Machine Learning
+- [Pandas: Mitigating Challenges of Working with Large Datasets](https://medium.com/stackademic/pandas-mitigating-challenges-of-working-with-large-datasets-e745b6d5fd88)
+- [The Roles of Data Sets in Machine Learning Projects: A Guide to Data Splitting](https://medium.com/@madhuri15/the-roles-of-data-sets-in-machine-learning-projects-a-guide-to-data-splitting-454beb468a49)
+- [KNN Classifier Optimization: Best Practices and Tips (PART II)](https://medium.com/@madhuri15/knn-classifier-optimization-best-practices-and-tips-part-2-60e83b181d59)
+- [KNN Classifier Implementation: Best Practices and Tips (PART I)](https://medium.com/@madhuri15/knn-classifier-implementation-best-practices-and-tips-part-i-6288181c8eed)
+- [Significance of k-Nearest Neighbors in Machine Learning](https://medium.com/@madhuri15/significance-of-k-nearest-neighbors-in-machine-learning-572f0daa2841)
+- [Data Leakage in Machine Learning](https://medium.com/dev-genius/data-leakage-in-ml-ae19613009ba)
 - [Why You Should Use Random Forests for Your Next Project?](https://medium.com/gopenai/why-you-should-use-random-forests-for-your-next-project-3653097cd5ef)
 - [Customer Churn Predictions Using Decision Tree Classifier](https://medium.com/@madhuri15/customer-churn-predictions-using-decision-tree-classifier-58196cb36a2b)
 - [Decision Tree 101: A Beginner's Guide](https://medium.com/@madhuri15/decision-trees-101-a-beginners-guide-4095dcfb8351)
@@ -12,12 +18,6 @@ List of articles published on Medium.
 - [Classification metrics for more promising model performance](https://medium.com/dev-genius/classification-metrics-5713f5a7b8e5)
 - [Finding a Balance in Bias-Variance Trade-off](https://medium.com/dev-genius/bias-variance-trade-off-c4139fc798b7)
 - [ML Algorithm: Logistic Regression for a Base Model](https://medium.com/mlearning-ai/ml-algorithm-logistic-regression-for-a-base-model-35ca5f5029e4)
-- [Data Leakage in Machine Learning](https://medium.com/dev-genius/data-leakage-in-ml-ae19613009ba)
-- [Significance of k-Nearest Neighbors in Machine Learning](https://medium.com/@madhuri15/significance-of-k-nearest-neighbors-in-machine-learning-572f0daa2841)
-- [KNN Classifier Implementation: Best Practices and Tips (PART I)](https://medium.com/@madhuri15/knn-classifier-implementation-best-practices-and-tips-part-i-6288181c8eed)
-- [KNN Classifier Optimization: Best Practices and Tips (PART II)](https://medium.com/@madhuri15/knn-classifier-optimization-best-practices-and-tips-part-2-60e83b181d59)
-- [The Roles of Data Sets in Machine Learning Projects: A Guide to Data Splitting](https://medium.com/@madhuri15/the-roles-of-data-sets-in-machine-learning-projects-a-guide-to-data-splitting-454beb468a49)
-
 ### Statistics 
 - [#1 | What is Statistics? | 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/7-days-of-statistics-for-data-science-day-01-what-is-statistics-28ccc82c6a4f)
 - [#2 | Measures of central tendency | 7-Days of Statistics for Data Science](https://medium.com/@madhuri15/day-02-measures-of-central-tendency-statistics-for-data-science-7-days-series-61d74730b060)
