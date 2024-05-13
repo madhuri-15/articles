@@ -3,6 +3,9 @@ List of articles published on Medium.
 
 ## Articles
 
+### Data Visualization
+- [Unlocking Insights Through Visuals: An Introduction to Data Visualization](https://medium.com/@madhuri15/unlocking-insights-through-visuals-an-introduction-to-data-visualization-37c3dde2a9d6)
+
 ### Machine Learning
 - [Pandas: Mitigating Challenges of Working with Large Datasets](https://medium.com/stackademic/pandas-mitigating-challenges-of-working-with-large-datasets-e745b6d5fd88)
 - [The Roles of Data Sets in Machine Learning Projects: A Guide to Data Splitting](https://medium.com/@madhuri15/the-roles-of-data-sets-in-machine-learning-projects-a-guide-to-data-splitting-454beb468a49)
