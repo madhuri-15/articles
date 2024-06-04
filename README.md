@@ -4,6 +4,7 @@ List of articles published on Medium.
 ## Articles
 
 ### Data Visualization
+- [Histograms — Your First Analysis](https://medium.com/@madhuri15/understanding-histogram-the-gateway-to-data-interpretation-7ac7ebfa4678)
 - [Unlocking Insights Through Visuals: An Introduction to Data Visualization](https://medium.com/@madhuri15/unlocking-insights-through-visuals-an-introduction-to-data-visualization-37c3dde2a9d6)
 
 ### Machine Learning
